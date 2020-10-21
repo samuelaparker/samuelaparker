@@ -4,7 +4,7 @@ My name is Samuel Parker. I'm a web designer working in New York City working to
 
 - 🔭 I’m currently learning Modern React with Redux https://www.udemy.com/course/react-redux/ and I've uploaded my course projects [here](https://github.com/samuelaparker?tab=repositories).
 - 👨🏻‍💻 for an example of my web design client work you can look [here](https://www.collabaretcreative.com/), [here](https://www.derekbrooker.com/), and [here](http://saltandlight.nyc/). 
-- 🤔 I’m looking for help with finding an internship or junior dev job. 
+- 🤔 I’m looking for an internship or junior dev job. 
 - ⚡ Fun fact: I have a college degree in jazz piano. 
 - 📫 How to reach me: [email](samuel.a.parker00@gmail.com ).
 
