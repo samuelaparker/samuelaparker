@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-My name is Samuel Parker. I'm a web designer working in New York City working towards employment as a front end developer. 
+My name is Samuel Parker. I am a web designer and front end developer working in New York City. 
 
-- 🔭 I’m currently learning Modern React with Redux https://www.udemy.com/course/react-redux/ and I've uploaded my course projects [here](https://github.com/samuelaparker?tab=repositories).
 - 👨🏻‍💻 for an example of my web design client work you can look [here](https://www.collabaretcreative.com/), [here](https://www.derekbrooker.com/), and [here](http://saltandlight.nyc/). 
-- 🤔 I’m looking for an internship or junior dev job. 
+- 🤔 Currently looking for front-end developent work!
 - ⚡ Fun fact: I have a college degree in jazz piano. 
 - 📫 How to reach me: [email](samuel.a.parker00@gmail.com ).
 
