@@ -7,6 +7,8 @@ My name is Samuel Parker. I am a web designer and front end developer working in
 - ⚡ Fun fact: I have a college degree in jazz piano and I also produce music under the moniker Sambrosia on [Spotify](https://open.spotify.com/artist/08wnFVjoryHSe9eVIYZFUN?si=R80fw8ZSRdyxpGz8ejmuxQ) and [Soundcloud](https://soundcloud.com/sambrosiamusic)
 - 📫 How to reach me: [email](samuel.a.parker00@gmail.com ).
 
+-currently working on my JAMstack [skills](https://samparker.dev/), specifically: Gatsby, ReactJS, GraphQL.
+
 
 
 
