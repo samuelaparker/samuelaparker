@@ -3,7 +3,7 @@
 My name is Samuel Parker. I am a web designer and front end developer working in New York City. 
 
 - 👨🏻‍💻 For examples of my web development client work go [here](https://www.samuelaparker.com/#portfolio-section).
-- 📈 Typeform like client onboarding [form](https://webvis-samuelaparker.vercel.app/) I created with Typescript and NextJS that links to a Google sheet. Hosted with [Vercel](https://vercel.com/). Code pinned below. 
+- 📈 Typeform like client onboarding [form](https://webvis-samuelaparker.vercel.app/) I created with Typescript and NextJS that links to a Google sheet. Hosted with [Vercel](https://vercel.com/). Code pinned [below](https://github.com/samuelaparker/webvis). 
 - 🎹 Fun fact: I have a college degree in jazz piano and I also produce music under the moniker Sambrosia on [Spotify](https://open.spotify.com/artist/08wnFVjoryHSe9eVIYZFUN?si=R80fw8ZSRdyxpGz8ejmuxQ) and [Soundcloud](https://soundcloud.com/sambrosiamusic).
 - 📫 How to reach me: [email](samuel.a.parker00@gmail.com ) || [LinkedIn](https://www.linkedin.com/in/samuelaparker/).
 
