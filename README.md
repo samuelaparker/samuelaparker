@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Samuel Parker. I am a web designer and front end developer working in New York City. 
+My name is Samuel Parker. I am a web designer and front end developer working in Richmond, VA. 
 
 - 👨🏻‍💻 For examples of my web development client work go [here](https://www.samuelaparker.com/#portfolio-section).
 - 📈 Typeform like client onboarding [form](https://webvis-samuelaparker.vercel.app/) I created with Typescript and NextJS that links to a Google sheet. Hosted with [Vercel](https://vercel.com/). The code is [here](https://github.com/samuelaparker/webvis). 
